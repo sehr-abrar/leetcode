@@ -1,6 +1,6 @@
-# Daily LeetCode
+# LeetCode Mania
 
-Welcome to my LeetCode repository, a place where I solve at least one LeetCode problem every day to sharpen my coding skills and prepare for technical interviews!
+Welcome to my LeetCode repository, a place where I solve at least one LeetCode problem every day to sharpen my coding skills and prepare for technical interviews! I also solve problems in my downtime to keep my mind sharp :)
 
 ## Repository Structure
 
